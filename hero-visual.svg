@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650">
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a7cff"/><stop offset=".5" stop-color="#48dfff"/><stop offset="1" stop-color="#8d5cff"/></linearGradient>
+ <radialGradient id="r"><stop stop-color="#1685ff" stop-opacity=".45"/><stop offset="1" stop-color="#03050a" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect width="900" height="650" rx="44" fill="#050913"/>
+<circle cx="170" cy="120" r="190" fill="url(#r)"/><circle cx="720" cy="500" r="220" fill="url(#r)"/>
+<g fill="none" stroke="url(#g)" opacity=".65">
+ <rect x="110" y="105" width="680" height="440" rx="32" stroke-width="2"/>
+ <rect x="145" y="140" width="610" height="370" rx="25" stroke-width="1"/>
+ <path d="M180 465L340 315l90 70 150-175 140 255" stroke-width="5"/>
+</g>
+<g fill="#f5f8ff"><rect x="190" y="175" width="180" height="18" rx="9"/><rect x="190" y="210" width="120" height="10" rx="5" opacity=".5"/></g>
+<circle cx="670" cy="185" r="62" fill="none" stroke="#58ddff" stroke-width="2" opacity=".7"/>
+<circle cx="670" cy="185" r="30" fill="url(#g)" opacity=".9"/>
+<text x="190" y="455" fill="#58ddff" font-family="Arial" font-size="28" font-weight="700" letter-spacing="5">TSA / DIGITAL</text>
+</svg>

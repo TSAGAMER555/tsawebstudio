@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#1685ff"/><stop offset="1" stop-color="#8d5cff"/></linearGradient></defs>
+<rect width="800" height="520" rx="38" fill="#060a12"/>
+<g fill="none" stroke="#182334"><path d="M80 430H730M80 350H730M80 270H730M80 190H730"/></g>
+<path d="M90 400 C160 370 175 310 245 330 S350 210 420 260 S540 150 600 205 S680 125 725 160" fill="none" stroke="url(#g)" stroke-width="8"/>
+<circle cx="725" cy="160" r="10" fill="#58ddff"/>
+<g fill="#fff" font-family="Arial"><text x="80" y="70" font-size="25" font-weight="700">Digital Growth</text><text x="80" y="100" font-size="13" fill="#8e9bad">A visual analytics concept</text></g>
+<g fill="#58ddff" font-family="Arial" font-size="12"><text x="80" y="465">MON</text><text x="230" y="465">WED</text><text x="390" y="465">FRI</text><text x="560" y="465">SUN</text></g>
+</svg>
